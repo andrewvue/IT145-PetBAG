@@ -1,5 +1,5 @@
 # IT145-PetBAG
-Pet Boarding and Grooming services concierge app
+Pet Boarding and Grooming services concierge app using Java
 
 
 Pet Boarding and Grooming (Pet BAG) is a company that provides boarding and grooming services for dogs and cats. We want to modernize our operations by introducing custom software that will help replace inefficient paper-based processes.
